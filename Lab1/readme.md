@@ -1,1 +1,1 @@
-
+This project is all about creating a one-page website porfolio, describing about my intertest , about me and my technical skills. Also this includes a secion where user can contact me thorugh filling a form with various fields liek name , email and message.
